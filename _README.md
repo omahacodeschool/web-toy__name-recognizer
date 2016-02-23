@@ -1,8 +1,8 @@
 # Toy - Web
 
-## Fahrenheit to Celsius
+## Name Recognizer
 
-Build a website that collects an integer value for Fahrenheit temperature and then outputs the corresponding Celsius temperature.
+Build a website which collects a name from the user. If the name is equal to the student's name (e.g. if Brad is the student doing this assignment, then this check would be to see if the user-inputted name is "Brad"), then display a greeting like, "Hello to myself!". If not, then display a greeting to whatever name was inputted.
 
 ### Getting Started
 
